@@ -1,0 +1,92 @@
+
+MY PORTFOLIO
+Software Engineering Student | Aspiring Software Engineer
+
+HOME
+
+Hello, I'm Ayuni!
+
+Welcome to my personal portfolio.
+
+I am a Software Engineering student at Universiti Tenaga Nasional (UNITEN), passionate about web development, software design and building practical technology solutions.
+
+Explore my projects, technical skills and experiences.
+
+ABOUT ME
+
+I am a Software Engineering student with a strong interest in frontend development, software engineering and problem-solving.
+
+I enjoy transforming ideas into functional, user-friendly applications and continuously improving my technical skills through academic projects and internship experiences.
+
+EDUCATION
+
+Bachelor of Software Engineering
+Universiti Tenaga Nasional (UNITEN)
+
+Diploma in Computer Science
+Kolej Profesional MARA Beranang
+
+TECHNICAL SKILLS
+
+Programming Languages:
+HTML, CSS, JavaScript, PHP, Python, Java, C#
+
+Database:
+MySQL
+
+Tools and Technologies:
+GitHub, Visual Studio Code, Postman, REST API, Docker
+
+INTERNSHIP EXPERIENCE
+
+Frontend Development Intern
+Mass Intelligent Provider (MIP) Sdn Bhd
+
+- Designed and developed web-based user interfaces.
+- Worked on dashboard, device management and monitoring pages.
+- Assisted with REST API integration and documentation.
+- Improved UI layouts and responsive designs.
+
+IT Helpdesk Intern
+Bastion Solution
+
+- Provided technical support and troubleshooting.
+- Assisted with software installation and system configuration.
+- Supported hardware, networking and IT maintenance tasks.
+
+FEATURED PROJECTS
+
+1. Smart Parking Vehicle Verification System
+
+A web-based parking management project designed for UNITEN, integrating Automatic Number Plate Recognition (ANPR) and Optical Character Recognition (OCR) to assist security guards in verifying registered vehicles.
+
+2. PawMart Pet Shop Management System
+
+A PHP and MySQL-based pet shop system supporting product management and customer-related functions.
+
+3. Active Directory Mini Project
+
+Configured Windows Server Active Directory using VirtualBox, including user management, domain configuration and group policies.
+
+MY INTERESTS
+
+Web Development
+UI/UX Design
+Software Engineering
+Photography
+Continuous Learning
+
+CONTACT
+
+Let's Connect!
+
+I am always interested in learning new technologies, collaborating on projects and exploring opportunities in software development.
+
+GitHub: https://github.com/niknurayuni
+Email: ayuneenik@gmail.com
+
+FOOTER
+
+My Portfolio
+Designed and developed by Ayuni.
+Week 9 Google Antigravity Lab.

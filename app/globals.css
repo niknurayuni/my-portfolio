@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500&family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --primary: #DB2777;
+  --primary-strong: #BE185D;
+  --primary-ink: #9D174D;
+  --primary-soft: #FDF2F8;
+  --primary-soft-2: #FCE7F3;
+  --primary-border: #FBCFE8;
+  --on-primary: #FFFFFF;
+  --primary-bright: #F9A8D4;
+  --secondary: #0D1117;
+  --on-secondary: #FFFFFF;
+  --neutral: #FFFFFF;
+  --surface: #FFFFFF;
+  --surface-2: #FBFCFD;
+  --surface-muted: #F7F8FA;
+  --surface-sunken: #F2F4F7;
+  --on-surface: #363C47;
+  --on-surface-strong: #0D1117;
+  --on-surface-variant: #5B6472;
+  --on-surface-muted: #697382;
+  --outline: #E7EAEF;
+  --outline-strong: #D6DBE3;
+  --error: #D61F26;
+  --on-error: #FFFFFF;
+}
+
+html {
+  scroll-behavior: smooth;
+  background-color: var(--neutral);
+  color: var(--on-surface);
+  font-family: var(--font-jakarta), system-ui, sans-serif;
+}
+
+::selection {
+  background-color: var(--primary-soft-2);
+  color: var(--primary-ink);
+}
+
+/* Accessible visible focus ring everywhere */
+:focus-visible {
+  outline: 2px solid var(--primary);
+  outline-offset: 3px;
+}
+
+/* Subtle scanline texture for headline card */
+.scanline-pattern {
+  background-image: linear-gradient(
+    to bottom,
+    rgba(255, 255, 255, 0.03) 50%,
+    rgba(0, 0, 0, 0.25) 50%
+  );
+  background-size: 100% 4px;
+}
+
+/* Respect reduced motion */
+@media (prefers-reduced-motion: reduce) {
+  * {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}
+
