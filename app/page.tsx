@@ -76,6 +76,17 @@ export default function Home() {
                   </p>
                 </div>
 
+                {/* Status Badge below Introduction */}
+                <div className="pt-1">
+                  <div className="inline-flex items-center gap-2.5 bg-[#FDF2F8] border border-[#FBCFE8] px-3.5 py-1.5 rounded-full text-[#9D174D] font-mono text-[11px] sm:text-[12px] font-semibold tracking-wide shadow-sm">
+                    <span className="relative flex h-2 w-2">
+                      <span className="animate-ping absolute inline-flex h-full w-full rounded-full bg-[#DB2777] opacity-75" />
+                      <span className="relative inline-flex rounded-full h-2 w-2 bg-[#DB2777]" />
+                    </span>
+                    <span>Open to Learning &amp; New Opportunities</span>
+                  </div>
+                </div>
+
                 {/* Action Buttons */}
                 <div className="pt-4 flex flex-wrap items-center gap-4">
                   <Link
